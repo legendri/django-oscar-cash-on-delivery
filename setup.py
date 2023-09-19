@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 
-setup(name='django-oscar-cash-on-delivery',
+setup(name='cashondelivery',
       version='0.1',
       url='https://github.com/pauloprea/django-oscar-cash-on-delivery',
       author="Paul Oprea",
